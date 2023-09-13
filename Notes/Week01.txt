@@ -1,0 +1,14 @@
+The homework have to be in separate file Like you have to submit this python notebook
+in Week01 folder
+
+Q1. The Timespan have to be like from Max_date to Min_Date which means 1980 to 2013.
+But, you given as 33 Years
+
+Q1. rows have at least 1 non-null values across the columns 3-57 has to be 3484
+
+Q2. Age column has to be like this 0-14,15-24,25-34, 44-54, 55-64,65
+    gender column has to be male or female
+
+Last cell is not running in my env. But I am not deducting any marks for that
+
+hw: 80
